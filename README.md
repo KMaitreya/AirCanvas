@@ -1,5 +1,5 @@
 # AirDraw
-AirDraw is a python project involving machine learning and computer vision using which we are able to draw objects and erase them on a computer window using simple palm gestures. It consists of 2 stagess-
+AirDraw is a python project involving machine learning and computer vision using which we are able to draw objects and erase them on a computer window using simple palm gestures. It consists of 2 stages-
 
 
 a)Palm detection
