@@ -19,7 +19,7 @@ The palm is tracked using 21 reference points. These reference points are predef
 
 b)Drawing
 
-In this phase the actual drawing takes place using palm gestures shown below. Drawing stages consists of three modes-
+In this phase the actual drawing takes place using palm gestures shown below. Drawing stage consists of three modes-
 
 i)Pen down phase-
 
