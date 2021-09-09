@@ -39,5 +39,5 @@ In the eraser phase you can erase previously drawn objects. Demonstation of pal 
 
 <img width="479" alt="eraser" src="https://user-images.githubusercontent.com/47482433/127768922-21cda401-aae1-48d6-992f-54a3257a8c69.png">
 
-
+Libraries used-> cv2(opencv), math, time, mediapipe
 
